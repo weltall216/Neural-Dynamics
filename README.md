@@ -48,7 +48,8 @@ https://elementary-physics.tistory.com/category/Mathematics/%EB%8B%A4%EC%96%91%E
 
 Newtonian-, Hamiltonianand Lagrangian-Mechanics
 
-
+Complex Dynamics of Some Hamiltonian Systems: Nonintegrability of Equations of Motion
+https://downloads.hindawi.com/journals/amp/2019/9326947.pdf
 
 
 # Observation Model
