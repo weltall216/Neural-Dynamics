@@ -1,4 +1,4 @@
-# VectorField_Control
+# Tensor Field Control
 
 ## Vector Field
 
@@ -26,7 +26,7 @@ Feature Curves : Bifurcation lines, Vortex corelines
 
 ### UnSteady Flows
 
-
+## Tensor Field 
 
 ## Lie algebra
 
