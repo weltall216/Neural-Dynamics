@@ -14,7 +14,7 @@ Vector Field Topology of Time-Dependent Flows in a Steady Reference Frame
 
 The State of the Art in Vortex Extraction
 
-- Keyword
+### Steady Vector field
 
 vector field : critical point, Jacobian of vector field, existence & extraction, 
 
@@ -22,9 +22,11 @@ topological element (2d, 3d) : source, repelling saddle, attracting saddle, sink
 
 Invariant Manifold (N-dim) : particle invariant set - every critical point, every closed orbit and every separatrix + every trajectory
 
-Bifurcation lines
+Feature Curves : Bifurcation lines, Vortex corelines
 
-Vortex corelines
+### UnSteady Flows
+
+
 
 ## Lie algebra
 
