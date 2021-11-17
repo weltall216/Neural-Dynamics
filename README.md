@@ -40,7 +40,9 @@ Feature Curves : Bifurcation lines, Vortex corelines
 
 https://elementary-physics.tistory.com/category/Mathematics/%EB%8B%A4%EC%96%91%EC%B2%B4%28%ED%85%90%EC%84%9C%29
 
-##
+## Dynamics
+
+Newtonian-, Hamiltonianand Lagrangian-Mechanics
 
 
 
