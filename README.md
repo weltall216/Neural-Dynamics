@@ -1,4 +1,4 @@
-# Tensor Field Control
+# Neural Dynamics
 
 ## Topological Manifolds
 
