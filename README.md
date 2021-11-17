@@ -6,7 +6,7 @@
 
 ## Differentiable Manifolds
 
-d
+
 
 ## Vector Field
 
