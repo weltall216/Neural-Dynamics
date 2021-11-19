@@ -44,24 +44,33 @@ Feature Curves : Bifurcation lines, Vortex corelines
 
 https://elementary-physics.tistory.com/category/Mathematics/%EB%8B%A4%EC%96%91%EC%B2%B4%28%ED%85%90%EC%84%9C%29
 
-## Dynamics
 
-Newtonian-, Hamiltonianand Lagrangian-Mechanics
+# Generalized Dynamics of System
 
 Complex Dynamics of Some Hamiltonian Systems: Nonintegrability of Equations of Motion
 https://downloads.hindawi.com/journals/amp/2019/9326947.pdf
 
+Generalized Lagrangian dynamics of physical and non-physical systems
+https://www.sciencedirect.com/science/article/pii/S0378437114006943
+
+S-Lagrangian dynamics of many-body systems and behavior of social groups: Dominance and hierarchy formation
+https://www.sciencedirect.com/science/article/pii/S0378437117305733
+
+The S-Lagrangian and a theory of homeostasis in living systems
+https://www.sciencedirect.com/science/article/pii/S0378437116310287
+
+Lagrangian fuzzy dynamics and behavior of living beings in the environment: Peace, war and ecological catastrophes
+https://www.sciencedirect.com/science/article/pii/S0378437119304121
+
+Stochastic Dynamics of Lagrangian Pore-Scale Velocities in Three-Dimensional Porous Media
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023702
+
+
+
+
 
 # Observation Model
 ## Ray Dynamics
-
-
-
-
-
-
-# Numerical Path Integral In Tensor Field
-
 
 # Neural Controller
 https://github.com/DiffEqML/torchcontrol
