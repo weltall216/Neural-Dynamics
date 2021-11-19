@@ -72,6 +72,10 @@ https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023702
 Review of Lagrangian stochastic models for turbulent combustion
 https://link.springer.com/content/pdf/10.1007/s10409-021-01142-7.pdf
 
+## ETC.. Dynamics
+
+Entanglement Dynamics from Random Product States at Long Times
+https://arxiv.org/pdf/2102.07584.pdf
 
 
 # Observation Model
