@@ -47,6 +47,8 @@ https://elementary-physics.tistory.com/category/Mathematics/%EB%8B%A4%EC%96%91%E
 
 # Generalized Dynamics of System
 
+## Hamiltonian, Lagrangian
+
 Complex Dynamics of Some Hamiltonian Systems: Nonintegrability of Equations of Motion
 https://downloads.hindawi.com/journals/amp/2019/9326947.pdf
 
@@ -65,7 +67,10 @@ https://www.sciencedirect.com/science/article/pii/S0378437119304121
 Stochastic Dynamics of Lagrangian Pore-Scale Velocities in Three-Dimensional Porous Media
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR023702
 
+## Stochastic Dynamics
 
+Review of Lagrangian stochastic models for turbulent combustion
+https://link.springer.com/content/pdf/10.1007/s10409-021-01142-7.pdf
 
 
 
